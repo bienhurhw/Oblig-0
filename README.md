@@ -6,3 +6,4 @@ versjon 23H2
 =======
 bienhurhw
 >>>>>>> cba36741a1129a7082ff0171a4bd6e75853cec8b
+git versjon 2.46.0
